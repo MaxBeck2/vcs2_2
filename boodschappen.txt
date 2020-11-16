@@ -3,5 +3,15 @@ Pizza:
 - Tomatensaus
 - Mozarella
 - Parmazaanse kaas
+<<<<<<< HEAD
 -Blauwe kaas
 - Rucola
+=======
+- Rucola
+
+Ontbijt:
+- Eieren
+- Brood
+- Sinaasappelsap
+- Boter
+>>>>>>> ontbijt
